@@ -1,4 +1,3 @@
-mlb_stats_project
 In 2018, MLB.com surveyed baseball players about their preferred statistic for evaluating a 
 player's ability. The top choices were 'OPS' (On-Base plus Slugging), 'RBI' (Runs Batted In), and 
 'R' (Runs Scored).
