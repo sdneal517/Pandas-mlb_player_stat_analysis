@@ -2,7 +2,15 @@
 
 ## Introduction
 
-Baseball enthusiasts often debate which statistics are the best indicators of a player's performance. This project aims to shed light on the preferences of MLB players by conducting an analysis of their preferred statistics. The analysis includes three bar graphs, each displaying the regular-season wins of MLB teams in ascending order alongside the top-9 player average for one of the selected statistics ('OPS,' 'RBI,' or 'R').
+In 2018, MLB.com surveyed baseball players to discover their preferred statistics for evaluating a player's ability. The top choices were 'OPS' (On-Base plus Slugging), 'RBI' (Runs Batted In), and 'R' (Runs Scored).
+
+This code takes a deep dive into these statistics, aiming to provide comprehensive insights. The script creates three visually engaging bar graphs that showcase each team's regular-season wins and compare them to the average of one of these key statistics. Additionally, two line graphs have been crafted to illustrate all teams' regular-season wins and how they correlate with their chosen statistic.
+
+Data sources include MLB player statistics (sourced from VIVO VINCO on Kaggle) and the win-loss records of each MLB team, both up to early August 2023.
+
+## Insights/Takeaways
+
+In the analysis of MLB player statistics and team performance, no consistent correlation was found between a team's win/loss record and the selected statistics ('OPS,' 'RBI,' and 'R'). This highlights the challenge of attributing success in baseball solely to individual player statistics due to the sport's team-oriented nature and complex dynamics.
 
 ## Data Sources
 
